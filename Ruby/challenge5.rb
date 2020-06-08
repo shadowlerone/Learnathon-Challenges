@@ -1,4 +1,4 @@
-beginnger list, a
+def beginnger list, a
 	list.count a
 end
-S
+
